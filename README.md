@@ -63,6 +63,9 @@
   </a>
 </p>
 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,git,github,js,react,nodejs.express,mongodb,netlify,vercel,vscode,firebase,figma&perline=3)](https://skillicons.dev)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadhosenshohan&show_icons=true&locale=en&layout=compact" alt="sajjadhosenshohan" style="margin-top: 20px;" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadhosenshohan&show_icons=true&locale=en" alt="sajjadhosenshohan" style="margin-top: 20px;" /></p>
