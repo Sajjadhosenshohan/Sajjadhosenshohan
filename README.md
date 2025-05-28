@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sajjadhosenshohan/Sajjadhosenshohan/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Md. Sajjad Hosen Shohan</h1>
-<h3 align="center">A Passionate Junior Frontend & Backend Developer</h3>
+<h3 align="center">Full Stack Developer | MERN Stack . SQL/NoSQL (PostgreSQL, MongoDB)</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" />
 
@@ -53,9 +53,9 @@ I am a dedicated MERN Stack Developer with a passion for building dynamic and re
 
 ### 🌟 Featured Projects:
 
-- 🔭 **Currently Working On**: [Giftly - Personalized Gift Store 🎁](https://giftly-ba979.web.app/)  
-- 👯 **Collaborating On**: [Giftly Project](https://giftly-ba979.web.app/)
-- 👨‍💻 **My Portfolio**: [sajjadhosenshohan.vercel.app](https://sajjadhosenshohan.vercel.app/)
+- 🔭 **Currently Working On**: [Giftly - Personalized Gift Store 🎁](https://giftly-virtual-gift-store.netlify.app/)  
+- 👯 **Collaborating On**: [Giftly Project](https://giftly-virtual-gift-store.netlify.app/)
+- 👨‍💻 **My Portfolio**: [sajjadhosenshohan.vercel.app](https://shohan-portfolio-frontend.vercel.app/)
 - 📝 **Blogs & Tutorials**: [Read My Dev.to Posts](https://dev.to/sajjad54)
 
 ---
@@ -78,7 +78,7 @@ I am a dedicated MERN Stack Developer with a passion for building dynamic and re
 
 ---
 
-### 📊 GitHub Stats (Dark Theme)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadhosenshohan&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true" alt="Top Languages" />
