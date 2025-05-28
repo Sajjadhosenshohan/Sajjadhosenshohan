@@ -1,4 +1,4 @@
-![logo](https://github.com/Sajjadhosenshohan/Sajjadhosenshohan/blob/main/banner.png)
+![logo](https://github.com/Sajjadhosenshohan/Sajjadhosenshohan/blob/main/banner3.png)
 
 <h1 align="center">Hi 👋, I'm Md. Sajjad Hosen Shohan</h1>
 <h3 align="center">Full Stack Developer | MERN Stack . SQL/NoSQL (PostgreSQL, MongoDB)</h3>
