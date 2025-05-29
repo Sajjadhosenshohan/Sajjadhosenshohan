@@ -11,7 +11,9 @@
 
 ### 🧑‍💻 About Me:
 
-I am a dedicated MERN Stack Developer with a passion for building dynamic and responsive web applications. My expertise lies in integrating powerful backend solutions with sleek and user-friendly frontend interfaces. I am currently enhancing my skills in **TypeScript**, **Next.js**, and backend technologies like **Prisma** and **PostgreSQL**. I enjoy working on real-time features using **Socket.IO** and integrating secure payment systems like **SSLCommerz**.
+I’m a  Full-Stack Web Developer  specializing in the MERN stack and experienced with SQL databases like PostgreSQL.
+I love crafting real-time, secure, and responsive web applications by combining powerful backend logic with clean, user-focused frontend design.
+My vision is to collaborate on impactful digital products that bring ideas to life and solve real-world problems.
 
 ---
 
